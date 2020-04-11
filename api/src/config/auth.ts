@@ -1,0 +1,1 @@
+export const  BCRYPT_WORK_FACTORY = 12

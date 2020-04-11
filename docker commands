@@ -1,0 +1,2 @@
+docker exec -it node-auth_db_1 mongo -u admin -p secret auth
+docker exec -it node-auth_cache_1 redis-cli -a secret
